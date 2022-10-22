@@ -1,6 +1,6 @@
 <div align="center">
 
-### 📌 Tech Stack
+### ❤️‍🔥 Tech Stack ❤️‍🔥
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white"> 
 <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=Reactquery&logoColor=white"> 
