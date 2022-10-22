@@ -11,5 +11,5 @@
 <img src="https://img.shields.io/badge/Styled Components-DB7093?style=for-the-badge&logo=styledComponents&logoColor=white">
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=white">
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
-<br/><br/>
+<br/><br/><br/>
 </div>
